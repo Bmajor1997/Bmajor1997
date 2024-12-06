@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Ben! <br/>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<!--
-**Bmajor1997/Bmajor1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b> SIEM Home lab
+- <b> Security Audit
+- <b> Network Analysis
+- <b> WireShark
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <h2> Certifications</h2>  <h2>
+- <b> CompTIA A+ (https://www.credly.com/badges/a9d63f90-5a33-4128-b632-998fa311b1c5/linked_in?t=skc3qb)
+- <b> Google Cybersecurity certificate (https://www.coursera.org/account/accomplishments/professional-cert/L3EAVWLJRHC3)
+- <h2> Websites
+- Linkedin www.linkedin.com/in/benjaminctmajor
