@@ -7,7 +7,7 @@
 - <b> WireShark  
 - <b> tcpdump
 - <b> NIST CSF
-- <b> SQL
+- <b> SQL (https://github.com/Bmajor1997/SQL-Project)
 - <b> Python
 - <b> Incident Handlers Journal
 - <b> Investigating File Hash
