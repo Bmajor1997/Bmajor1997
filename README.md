@@ -8,7 +8,7 @@
 - <b> tcpdump
 - <b> NIST CSF
 - <b> [SQL](https://github.com/Bmajor1997/SQL-Project)
-- <b> Python
+- <b> [Python](https://github.com/Bmajor1997/python-project)
 - <b> Incident Handlers Journal
 - <b> Investigating File Hash
 - <h2> Certifications</h2>  <h2>
