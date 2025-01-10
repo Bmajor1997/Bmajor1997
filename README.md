@@ -3,8 +3,8 @@
 
 - <b> [Network Hardening](https://github.com/Bmajor1997/Network-hardening)
 - <b> [WireShark](https://github.com/Bmajor1997/Wireshark)
-- <b> [tcpdump](https://github.com/Bmajor1997/tcpdump)-
-- <b> [NIST CSF](https://github.com/Bmajor1997/NIST-CSF)-
+- <b> [tcpdump](https://github.com/Bmajor1997/tcpdump)
+- <b> [NIST CSF](https://github.com/Bmajor1997/NIST-CSF)
 - <b> [SQL](https://github.com/Bmajor1997/SQL-Project)
 - <b> [Python](https://github.com/Bmajor1997/python-project)
 - <b> [Incident Incident Handlers Journal](https://github.com/Bmajor1997/Incident-handlers-journal)
