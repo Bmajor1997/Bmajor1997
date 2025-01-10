@@ -1,8 +1,6 @@
 <h1>Hi, I'm Ben! <br/>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> SIEM Home lab
-- <b> [Network Analysis]
 - <b> [Network Hardening](https://github.com/Bmajor1997/Network-hardening)
 - <b> [WireShark](https://github.com/Bmajor1997/Wireshark)
 - <b> [tcpdump](https://github.com/Bmajor1997/tcpdump)-
