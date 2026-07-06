@@ -1,3 +1,3 @@
-# Quality Assurance Analyst Focused on Reliable & Accessible Software
+# Quality Assurance Analyst | Manual Testing • Automation • Software Quality
 
-I specialize in manual testing, accessibility testing, and Playwright automation to help deliver reliable, user-friendly, and inclusive web applications. This GitHub showcases the projects, automation frameworks, and documentation I've developed while expanding my skills in Quality Assurance.
+I build and document testing solutions that improve software quality through manual testing, Playwright automation, Python scripting, and thoughtful QA practices. This GitHub showcases projects that demonstrate my approach to testing, automation, and continuous learning.
