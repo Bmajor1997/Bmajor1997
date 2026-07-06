@@ -1,5 +1,3 @@
-# Hi, I'm Ben
+# Quality Assurance Analyst Focused on Reliable & Accessible Software
 
-Quality Assurance Analyst with experience in manual testing, accessibility testing, and Playwright automation.
-
-I enjoy improving software quality through structured testing, automation, and accessible design.
+I specialize in manual testing, accessibility testing, and Playwright automation to help deliver reliable, user-friendly, and inclusive web applications. This GitHub showcases the projects, automation frameworks, and documentation I've developed while expanding my skills in Quality Assurance.
